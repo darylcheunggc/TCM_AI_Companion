@@ -1,7 +1,8 @@
 # TCM_AI_Companion 
 
 ## 2026-8-14
-# GB10 Migration Plan: Ollama/GGUF → vLLM
+
+GB10 Migration Plan: Ollama/GGUF → vLLM
 
 **Problem:** Ollama/GGUF setup isn't using NVFP4, NIM, or TensorRT-LLM — leaving GB10's Blackwell hardware underutilized and token speed slow.
 
