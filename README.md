@@ -36,4 +36,4 @@ GB10 Migration Plan: Ollama/GGUF → vLLM
 - [ ] Update JupyterLab/scratchpad references and any scripts pointing to Ollama API
 
 ---
-*Send follow-up prompts for any step above and I'll go deeper (install commands, config files, benchmarking scripts, etc.)*
+*
